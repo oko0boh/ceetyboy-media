@@ -1,0 +1,10 @@
+# 1024b-web: lines for the end of the caption (Q9a: credits in the caption, not on the image)
+(no photo credit needed: own frames / renders / cards only)
+
+Video: À des fins promotionnelles uniquement · For promotional purposes only
+Musique / Music: « Kumasi Groove », Kevin MacLeod (incompetech.com), CC BY 4.0
+
+Flags:
+- Q9d: stills of our own city in the live web game (Web-1023c, Unity, 'Google tiles off: our city'): no Google / Cesium frame, no Cesium ion strip; clean flag = no UI. Taken by scripts/studio/web-shots.ts, frame QA passed.
+- Caption credit (data, Q9a): « Ville 3D Ceety Boy : données © contributeurs OpenStreetMap (ODbL), ESA WorldCover 2021, Meta & WRI, GHS © UE (CC BY 4.0) »
+- Slides 1–3 are the same spot (Place de l'Étoile Rouge, trip to Dantokpa); the Drive still is from Place de l'Amazone: at Étoile Rouge AUTO took Drive back during every screenshot (23 Oct, 14 tries), so the slide says where it is.
