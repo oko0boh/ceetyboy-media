@@ -6,7 +6,7 @@ graphics (no GPU): 1,800 frames, 1080 × 1920 (9:16), 60 fps, 30 s. Henry 24 Oct
 
 | file | what |
 |---|---|
-| `reel1-etoile-rouge-9x16-v2.mp4` | 30 s, H.264 60 fps, 18.6 MB, music, −14.3 LUFS, peak −1.6 dB |
+| `reel1-etoile-rouge-9x16-v3.mp4` | 30 s, H.264 60 fps, 18 MB, music, −14.3 LUFS, peak −1.6 dB, end card « Place de l'Étoile Rouge / Cotonou » |
 | `qa/sheet-01…03.png` | one frame every 0.5 s with the frame-QA flags (city-boy `scripts/studio/frame-qa.ts`) |
 | `qa/flags.png` | the worst frame of each flag |
 
@@ -38,3 +38,24 @@ own city, no Google tiles. Statue model: see the game's Credits screen.
 ## Cost in the cloud
 4 h 50 min for the full first render, then 2 partial re-renders of shots 4–7 (~4 h 15 min each, of which ~1 h 30 min just stepping the game
 back to frame 864). City-boy `scripts/studio/web-render.ts` resumes after a stop.
+
+## v3 (both reels): the end card
+The web capture reads the game canvas only, so the end card the game draws in its UI layer was missing from the frames. It is now drawn at
+encode time (city-boy `scripts/studio/web-encode.ts`): the reel's own `card.fr` text, Inter Bold (SIL OFL), white with a soft shadow, fading in
+at 27.6 s (reel 1) / 26.4 s (reel 2), out with the final fade. v2 (no card) removed.
+
+# Reel 2 « Golden Tulip Le Diplomate » — 9:16, 30 s (24 Oct 2026)
+**Golden Tulip Le Diplomate gave consent (Henry 24 Oct).** Not posted; for Henry to watch and decide.
+
+| file | what |
+|---|---|
+| `reel2-golden-tulip-9x16.mp4` | 30 s, H.264 60 fps, 14 MB, music (Allada), −14.3 LUFS, peak −1.6 dB, end card « Golden Tulip Le Diplomate / Bd de la Marina · Cotonou » |
+| `reel2-qa/` | frame-QA contact sheets + flags |
+
+Shots: 1. bird's-eye drift over the Boulevard de la Marina at golden hour · 2. chase behind the car eastward · 3. side view from 16 m up (the
+« Boulevard de la Marina » street sign passes) · 4. low chase right behind the car · 5. crane up over the boulevard, card, fade.
+**The hotel building is not in it:** the game has no Golden Tulip model yet (Mac task 394; its OSM shape renders as a grey slab, so the reel
+was written as the arrival on the boulevard + the venue card). Re-render once the model is in the live game.
+Cloud fix: shot 3 was 4.5 m / 16 m beside the car and ran through the boulevard's trees (car hidden) → 16 m up / 20 m out (reel file on city-boy
+`cloud/441-cloud-video-desk`, `studio/reels/golden-tulip-30s-9x16.reel.json`). Frame QA: no walls / empty frames; small jumps at 6.7 s and
+10.1 s (traffic), the final fade; « pop » = cars appearing in traffic. Sound and credits: as reel 1 (music credit required in the post).
