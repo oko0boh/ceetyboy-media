@@ -1,0 +1,36 @@
+{
+  "file": "lagos-buka-grills-trajet-9x16.mp4",
+  "partner": "lagos-buka-grills",
+  "name": "Lagos Buka & Grills",
+  "aspect": "9:16",
+  "seconds": 25.003,
+  "bytes": 16804644,
+  "driveSeconds": 21,
+  "routeMetres": 10504,
+  "ranges": [
+    [
+      0,
+      2
+    ],
+    [
+      2,
+      47
+    ],
+    [
+      48,
+      235
+    ],
+    [
+      235,
+      280
+    ],
+    [
+      281,
+      632
+    ]
+  ],
+  "capturedFrames": 698,
+  "virtualTime": true,
+  "pinToConfirm": false,
+  "url": "https://app.ceetyboy.com/?notelemetry&fr&goto=geo%3A0%2C0%3Fq%3D6.369027%2C2.483545(Lagos%2BBuka%2B%2526%2BGrills)&from=geo%3A0%2C0%3Fq%3D6.349021%2C2.403291(Golden%2BTulip%2BLe%2BDiplomate)"
+}

@@ -1,0 +1,44 @@
+{
+  "file": "marsal-technologies-trajet-16x9.mp4",
+  "partner": "marsal-technologies",
+  "name": "Marsal Technologies",
+  "aspect": "16:9",
+  "seconds": 25.003,
+  "bytes": 22447916,
+  "driveSeconds": 21,
+  "routeMetres": 6965,
+  "ranges": [
+    [
+      47,
+      92
+    ],
+    [
+      92,
+      137
+    ],
+    [
+      272,
+      394
+    ],
+    [
+      394,
+      439
+    ],
+    [
+      574,
+      695
+    ],
+    [
+      695,
+      740
+    ],
+    [
+      875,
+      1082
+    ]
+  ],
+  "capturedFrames": 1231,
+  "virtualTime": true,
+  "pinToConfirm": false,
+  "url": "https://app.ceetyboy.com/?notelemetry&fr&goto=geo%3A0%2C0%3Fq%3D6.364508%2C2.457423(Marsal%2BTechnologies)&from=geo%3A0%2C0%3Fq%3D6.349021%2C2.403291(Golden%2BTulip%2BLe%2BDiplomate)"
+}

@@ -1,0 +1,44 @@
+{
+  "file": "gota-international-trajet-9x16.mp4",
+  "partner": "gota-international",
+  "name": "GOTA International Group",
+  "aspect": "9:16",
+  "seconds": 25.003,
+  "bytes": 22867919,
+  "driveSeconds": 21,
+  "routeMetres": 4690,
+  "ranges": [
+    [
+      46,
+      91
+    ],
+    [
+      91,
+      136
+    ],
+    [
+      271,
+      392
+    ],
+    [
+      392,
+      437
+    ],
+    [
+      572,
+      693
+    ],
+    [
+      693,
+      738
+    ],
+    [
+      874,
+      1082
+    ]
+  ],
+  "capturedFrames": 1170,
+  "virtualTime": true,
+  "pinToConfirm": false,
+  "url": "https://app.ceetyboy.com/?notelemetry&fr&goto=geo%3A0%2C0%3Fq%3D6.367441%2C2.430298(GOTA%2BInternational%2BGroup)&from=geo%3A0%2C0%3Fq%3D6.349021%2C2.403291(Golden%2BTulip%2BLe%2BDiplomate)"
+}

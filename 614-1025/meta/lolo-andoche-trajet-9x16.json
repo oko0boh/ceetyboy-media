@@ -1,0 +1,40 @@
+{
+  "file": "lolo-andoche-trajet-9x16.mp4",
+  "partner": "lolo-andoche",
+  "name": "Lolo Andoche",
+  "aspect": "9:16",
+  "seconds": 25.003,
+  "bytes": 20839032,
+  "driveSeconds": 21,
+  "routeMetres": 5208,
+  "ranges": [
+    [
+      0,
+      45
+    ],
+    [
+      45,
+      158
+    ],
+    [
+      158,
+      203
+    ],
+    [
+      204,
+      324
+    ],
+    [
+      324,
+      369
+    ],
+    [
+      370,
+      632
+    ]
+  ],
+  "capturedFrames": 695,
+  "virtualTime": true,
+  "pinToConfirm": false,
+  "url": "https://app.ceetyboy.com/?notelemetry&fr&goto=geo%3A0%2C0%3Fq%3D6.360143%2C2.436984(Lolo%2BAndoche)&from=geo%3A0%2C0%3Fq%3D6.349021%2C2.403291(Golden%2BTulip%2BLe%2BDiplomate)"
+}

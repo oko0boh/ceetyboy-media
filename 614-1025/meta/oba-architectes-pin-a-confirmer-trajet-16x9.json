@@ -1,0 +1,44 @@
+{
+  "file": "oba-architectes-pin-a-confirmer-trajet-16x9.mp4",
+  "partner": "oba-architectes",
+  "name": "oba Architectes",
+  "aspect": "16:9",
+  "seconds": 25.003,
+  "bytes": 25739884,
+  "driveSeconds": 21,
+  "routeMetres": 8013,
+  "ranges": [
+    [
+      0,
+      40
+    ],
+    [
+      40,
+      85
+    ],
+    [
+      86,
+      209
+    ],
+    [
+      209,
+      254
+    ],
+    [
+      255,
+      376
+    ],
+    [
+      376,
+      421
+    ],
+    [
+      422,
+      633
+    ]
+  ],
+  "capturedFrames": 797,
+  "virtualTime": true,
+  "pinToConfirm": true,
+  "url": "https://app.ceetyboy.com/?notelemetry&fr&goto=geo%3A0%2C0%3Fq%3D6.384882%2C2.445828(oba%2BArchitectes)&from=geo%3A0%2C0%3Fq%3D6.349021%2C2.403291(Golden%2BTulip%2BLe%2BDiplomate)"
+}

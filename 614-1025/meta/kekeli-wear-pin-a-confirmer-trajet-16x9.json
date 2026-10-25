@@ -1,0 +1,44 @@
+{
+  "file": "kekeli-wear-pin-a-confirmer-trajet-16x9.mp4",
+  "partner": "kekeli-wear",
+  "name": "Kekeli Wear",
+  "aspect": "16:9",
+  "seconds": 25.003,
+  "bytes": 23512426,
+  "driveSeconds": 21,
+  "routeMetres": 3808,
+  "ranges": [
+    [
+      0,
+      29
+    ],
+    [
+      29,
+      74
+    ],
+    [
+      75,
+      196
+    ],
+    [
+      196,
+      241
+    ],
+    [
+      242,
+      378
+    ],
+    [
+      378,
+      423
+    ],
+    [
+      424,
+      633
+    ]
+  ],
+  "capturedFrames": 752,
+  "virtualTime": true,
+  "pinToConfirm": true,
+  "url": "https://app.ceetyboy.com/?notelemetry&fr&goto=geo%3A0%2C0%3Fq%3D6.362753%2C2.419229(Kekeli%2BWear)&from=geo%3A0%2C0%3Fq%3D6.349021%2C2.403291(Golden%2BTulip%2BLe%2BDiplomate)"
+}

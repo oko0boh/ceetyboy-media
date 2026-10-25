@@ -1,0 +1,44 @@
+{
+  "file": "didos-beauty-trajet-16x9.mp4",
+  "partner": "didos-beauty",
+  "name": "Dido's Beauty Company",
+  "aspect": "16:9",
+  "seconds": 25.003,
+  "bytes": 26385000,
+  "driveSeconds": 21,
+  "routeMetres": 6220,
+  "ranges": [
+    [
+      0,
+      45
+    ],
+    [
+      45,
+      90
+    ],
+    [
+      90,
+      211
+    ],
+    [
+      211,
+      256
+    ],
+    [
+      257,
+      437
+    ],
+    [
+      437,
+      482
+    ],
+    [
+      483,
+      632
+    ]
+  ],
+  "capturedFrames": 847,
+  "virtualTime": true,
+  "pinToConfirm": false,
+  "url": "https://app.ceetyboy.com/?notelemetry&fr&goto=geo%3A0%2C0%3Fq%3D6.389654%2C2.392879(Dido's%2BBeauty%2BCompany)&from=geo%3A0%2C0%3Fq%3D6.349021%2C2.403291(Golden%2BTulip%2BLe%2BDiplomate)"
+}

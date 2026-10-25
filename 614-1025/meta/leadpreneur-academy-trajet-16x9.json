@@ -1,0 +1,44 @@
+{
+  "file": "leadpreneur-academy-trajet-16x9.mp4",
+  "partner": "leadpreneur-academy",
+  "name": "Leadpreneur Academy",
+  "aspect": "16:9",
+  "seconds": 25.003,
+  "bytes": 22902151,
+  "driveSeconds": 21,
+  "routeMetres": 9386,
+  "ranges": [
+    [
+      0,
+      23
+    ],
+    [
+      23,
+      68
+    ],
+    [
+      69,
+      205
+    ],
+    [
+      205,
+      250
+    ],
+    [
+      251,
+      450
+    ],
+    [
+      450,
+      495
+    ],
+    [
+      496,
+      633
+    ]
+  ],
+  "capturedFrames": 860,
+  "virtualTime": true,
+  "pinToConfirm": false,
+  "url": "https://app.ceetyboy.com/?notelemetry&fr&goto=geo%3A0%2C0%3Fq%3D6.365697%2C2.478214(Leadpreneur%2BAcademy)&from=geo%3A0%2C0%3Fq%3D6.349021%2C2.403291(Golden%2BTulip%2BLe%2BDiplomate)"
+}
