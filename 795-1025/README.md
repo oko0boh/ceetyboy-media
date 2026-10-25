@@ -1,12 +1,11 @@
-# Ceety Boy · lancement 1er novembre · extrait 0–13 s
+# Ceety Boy · ceety-boy-launch-1nov
 
-Extrait du film de lancement (30 s, 9:16, 60 i/s) : Place de l'Étoile Rouge, Cotonou en 3D — ceetyboy.com.
-Le film complet suivra dans ce dossier.
+Film 30 s · 9:16 · 60 i/s · 18.1 Mo — Cotonou en 3D, ceetyboy.com.
 
 | Fichier / File | |
 |---|---|
-| `ceety-boy-launch-1nov-extrait-0-13s-9x16.mp4` | l'extrait, 13 s, 9,9 Mo / the excerpt, 13 s |
-| `ceety-boy-launch-1nov-extrait-0-13s-planche.jpg` | une image par seconde / one picture per second |
+| `ceety-boy-launch-1nov-9x16.mp4` | le film / the film |
+| `ceety-boy-launch-1nov-contact-sheet.jpg` | une image par seconde / one picture per second |
 
 ## Crédits à mettre dans la légende / Credits for the caption
 
