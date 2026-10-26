@@ -17,6 +17,8 @@ branch `cloud/835-pressure-to-be-okay`, `docs/cloud/835-pressure-to-be-okay/READ
 | 6 | Sat 31 Oct 08:00 | `day6-alidu.mp4` · `day6-alidu-nomusic.mp4` · `day6-alidu-contact-sheet.jpg` | 42.1 s | Lilian Eneyoki Alidu, host (Founder, Maison de Eneyoki · Mental Health Counselor) | Plage de Fidjrossè (3D) → Route des Pêches → Monument Bio Guera (3D, from above) → Boulevard de la Marina → Golden Tulip Le Diplomate, 4.5 km (a city landmark on the coast, not her home: no file gives an address) |
 | 7 | Sun 1 Nov, morning | `day7-programme.mp4` · `day7-programme-nomusic.mp4` · `day7-programme-contact-sheet.jpg` | 42.9 s | The whole programme: Lilian Eneyoki Alidu (host), Dr Elvis Assogba and Andoche Amoussou (speakers), the 7 panelists | « AUJOURD'HUI · 16:00 »: Aéroport → Monument Bio Guera (3D) → Boulevard de la Marina → the Golden Tulip gate, 2.6 km; end card with the QR to https://ceetyboy.com (decoded from the film) |
 
+26 Oct 04:15 UTC re-export (coordinator review of Day 1): the map runs name the roundabouts and landmarks passed, from our data (Carrefour Védoko, Marché Vêdoko, Mur Graffé du Port, Palais de la Marina, Palais des Congrès de Cotonou, Centre International de Conférences, Monument Bio Guera…); numbered street codes (« Rue 12.191 ») are no longer shown. Every film watched again at 2 fps.
+
 Watched end to end at 2 fps (90 frames): Typing clip untouched to 22.35 s with its « RECONSTRUCTED CONVERSATION » label; no floating
 objects, no grey; the route drawn start to gate; names from `data/events/cotonou-2026.json`. The Typing stars are not named or shown in
 our half (no endorsement). Sound: Typing audio under the chat only; music from the transition (mean −22 dB vs −33 dB chat).
