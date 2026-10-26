@@ -10,6 +10,7 @@ branch `cloud/835-pressure-to-be-okay`, `docs/cloud/835-pressure-to-be-okay/READ
 | Day | Post | File | Length | Person of the day | Drive |
 |---|---|---|---|---|---|
 | 1 | Mon 26 Oct 08:00 | `day1-assogba.mp4` · `day1-assogba-nomusic.mp4` · `day1-assogba-contact-sheet.jpg` | 44.9 s | Dr Elvis Assogba, speaker (Psychotherapist · Lecturer-Researcher, University of Abomey-Calavi) | Godomey (on the Abomey-Calavi road) → Golden Tulip Le Diplomate, 9.4 km by road |
+| 2 | Tue 27 Oct 08:00 | `day2-amoussou.mp4` · `day2-amoussou-nomusic.mp4` · `day2-amoussou-contact-sheet.jpg` | 44.8 s | Andoche Amoussou, speaker (Founder & Creative Director, Lolo Andoche) | Lolo Andoche boutique, Ganhi → Boulevard de la Marina (3D) → Golden Tulip Le Diplomate, 5.0 km |
 
 Watched end to end at 2 fps (90 frames): Typing clip untouched to 22.35 s with its « RECONSTRUCTED CONVERSATION » label; no floating
 objects, no grey; the route drawn start to gate; names from `data/events/cotonou-2026.json`. The Typing stars are not named or shown in
