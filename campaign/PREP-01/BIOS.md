@@ -82,10 +82,10 @@ Chaque lieu. Chaque trajet. Écrivez-nous pour trouver un lieu ou faire voir vot
 Every place. Every route. Message us to find a place or get your business seen.
 ```
 
-Business description (limit 512) — **FR** (174)
+Business description (limit 512) — **FR** (187)
 
 ```
-Ceety Boy montre Cotonou en 3D : les lieux, les commerces et la route pour y aller, avant de partir. Vous avez une entreprise ? Écrivez-nous : nous vous aidons à être trouvé.
+Ceety Boy montre Cotonou en 3D : les lieux, les commerces et la route pour y aller, avant de partir. Vous avez une entreprise ? Écrivez-nous : nous aidons votre entreprise à être trouvée.
 ```
 
 **EN** (145)
