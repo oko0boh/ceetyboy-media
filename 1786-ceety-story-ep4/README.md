@@ -1,6 +1,6 @@
 # 1786 · Ceety Story S1 ep 4 « Tu l'as dépassé. Encore. » — the two films
 
-Not cleared yet: a cloud inspector (fresh session) checks them first; Henry sees them only after CLEAR. Nothing posted.
+Round 2 (9 Nov, board 1792): « Repère » chip clear of the caption, no ghosting in the 3D. Not cleared yet: a cloud inspector (fresh session) checks them first; Henry sees them only after CLEAR. Nothing posted.
 
 | File | What | Length |
 |---|---|---|
