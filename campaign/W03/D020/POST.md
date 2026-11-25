@@ -8,7 +8,7 @@ Not a single-place post (five places + a guide), so it links the article page, n
 ## Caption FR
 Premier séjour à Cotonou ? 🌍
 Ici, presque personne ne donne une adresse avec un numéro de porte. On dit « après l'Étoile Rouge », « derrière Dantokpa », « vers l'Amazone ». Alors on a fait le guide qui parle en repères.
-📍 L'Amazone, 30 mètres de bronze face à l'océan
+📍 L'Amazone, 30 mètres recouverts de bronze, face à l'océan
 📍 Dantokpa, la ville dans la ville
 📍 La cathédrale aux rayures rouges et blanches
 📍 La Fondation Zinsou et l'art contemporain
@@ -24,7 +24,7 @@ Glissez 👉 puis lisez le guide sur ceetyboy.com. Envoyez-le à quelqu'un qui a
 ## Caption EN
 First time in Cotonou? 🌍
 Here, almost nobody gives an address with a door number. People say “after the Étoile Rouge”, “behind Dantokpa”, “near the Amazone”. So we made the guide that speaks in landmarks.
-📍 The Amazon, 30 metres of bronze facing the ocean
+📍 The Amazone, 30 metres clad in bronze, facing the ocean
 📍 Dantokpa, a city within the city
 📍 The red-and-white striped cathedral
 📍 Fondation Zinsou and contemporary art
@@ -48,25 +48,25 @@ EN: Which Cotonou place do you show first to someone who just arrived? 👇 The 
 
 ## Alt text FR / EN
 FR (one per slide):
-1. Le monument de l'Amazone, statue de bronze d'une guerrière avec un fusil et un sabre, sur fond de ciel. Titre : « Premier séjour à Cotonou ? », et « 5 lieux à voir, glissez ».
+1. Le monument de l'Amazone, statue recouverte de bronze d'une guerrière avec un fusil et une épée, sur fond de ciel. Titre : « Premier séjour à Cotonou ? », et « 5 lieux à voir, glissez ».
 2. Le Marché Dantokpa et son quartier vus d'en haut, dans la ville 3D de Ceety Boy. Texte : « Dantokpa, la ville dans la ville. Présenté comme le plus grand marché à ciel ouvert d'Afrique de l'Ouest, au bord de la lagune. »
 3. La façade rayée rouge et blanc de la cathédrale Notre-Dame-de-Miséricorde. Texte : « La cathédrale aux rayures. Près de l'Ancien Pont, ses murs de céramique en bandes rouges et blanches se voient de loin. »
 4. Le bâtiment blanc de la Fondation Zinsou. Texte : « L'art contemporain, ici. Créée en 2005, la première structure béninoise consacrée à l'art contemporain. »
-5. La plage de Fidjrossè, le sable et les vagues de l'océan. Texte : « Fidjrossè, face à l'Atlantique. À l'ouest de la ville, la plage. La route des Pêches, station balnéaire de Cotonou. »
+5. La plage de Fidjrossè, le sable et les vagues de l'océan. Texte : « Fidjrossè, face à l'Atlantique. À l'ouest de la ville, la plage. La route des Pêches, présentée comme station balnéaire. »
 6. Un téléphone affiche l'article « Premier séjour à Cotonou : le guide pour découvrir la ville » sur ceetyboy.com. Texte : « Le guide, trajet compris. Chaque lieu a sa page et son trajet, repère par repère, jusqu'à la porte. »
 7. Texte : « Premier séjour à Cotonou ? Lisez le guide sur ceetyboy.com. L'Amazone, Dantokpa, la cathédrale, Zinsou, Fidjrossè… et le trajet jusqu'à chaque porte. », au-dessus de la statue de l'Amazone, avec le logo Ceety Boy et « Chaque lieu. Chaque trajet. ».
 EN:
-1. The Amazon Monument, a bronze statue of a woman warrior with a rifle and a sword, against the sky. Title: "First time in Cotonou?", and "5 places to see, swipe".
+1. The Amazone monument, a bronze-clad statue of a woman warrior with a rifle and a sword, against the sky. Title: "First time in Cotonou?", and "5 places to see, swipe".
 2. Marché Dantokpa and its neighbourhood from above, in Ceety Boy's 3D city. Text: "Dantokpa, a city within the city. Described as the largest open-air market in West Africa, on the lagoon shore."
 3. The red-and-white striped front of the Cathédrale Notre-Dame de Miséricorde. Text: "The striped cathedral. Near the Ancien Pont, its red-and-white tiled walls stand out from afar."
 4. The white Fondation Zinsou building. Text: "Contemporary art, right here. Created in 2005, the first institution in Benin devoted to contemporary art."
-5. Fidjrossè beach, sand and ocean waves. Text: "Fidjrossè, facing the Atlantic. In the west of the city, the beach. The Route des Pêches, Cotonou's seaside resort."
+5. Fidjrossè beach, sand and ocean waves. Text: "Fidjrossè, facing the Atlantic. In the west of the city, the beach. The Route des Pêches, described as a seaside resort."
 6. A phone shows the article "First time in Cotonou? A visitor's guide to the city" on ceetyboy.com. Text: "The guide, route included. Every place has its page and its route, landmark by landmark, to the door."
-7. Text: "First time in Cotonou? Read the guide on ceetyboy.com. The Amazon, Dantokpa, the cathedral, Zinsou, Fidjrossè… and the route to every door.", above the Amazon statue, with the Ceety Boy logo and "Every place. Every route.".
+7. Text: "First time in Cotonou? Read the guide on ceetyboy.com. The Amazone, Dantokpa, the cathedral, Zinsou, Fidjrossè… and the route to every door.", above the Amazone statue, with the Ceety Boy logo and "Every place. Every route.".
 
 ## Credits line
-FR : Photos : Mister Kolson (CC0), MVN (CC BY 2.0), David Stanley (CC BY 2.0), MyLady333 (CC0), via Wikimedia Commons · Ville 3D : données © contributeurs OpenStreetMap (ODbL)
-EN: Photos: Mister Kolson (CC0), MVN (CC BY 2.0), David Stanley (CC BY 2.0), MyLady333 (CC0), via Wikimedia Commons · 3D city: data © OpenStreetMap contributors (ODbL)
+FR : Photos : Mister Kolson (CC0), MVN (CC BY 2.0), David Stanley from Nanaimo, Canada (CC BY 2.0), MyLady333 (CC0), via Wikimedia Commons · Ville 3D : données © contributeurs OpenStreetMap (ODbL)
+EN: Photos: Mister Kolson (CC0), MVN (CC BY 2.0), David Stanley from Nanaimo, Canada (CC BY 2.0), MyLady333 (CC0), via Wikimedia Commons · 3D city: data © OpenStreetMap contributors (ODbL)
 (No music. No Google frame or Google photo. CC BY photos need the credit: keep this line in the caption's last lines or in the first comment on every platform.)
 
 ## Sources
@@ -74,11 +74,11 @@ EN: Photos: Mister Kolson (CC0), MVN (CC BY 2.0), David Stanley (CC BY 2.0), MyL
 |---|---|
 | Row, date, hook, CTA, pillar, PREP-10 note (cover not Stade de l'Amitié / Ancien Pont / Port) | city-boy-unity `cloud-board`: `cloud/campaign/calendar.md` row D020, task `cloud/tasks/1916-campaign-d020-article.md` |
 | Recipes | `cloud/campaign/recipes/article.md`, `carousel.md`, `_post-pack.md` |
-| Amazon: 30 m, bronze, facing the ocean | city-boy `public/data/landmarks.json` `amazone` (en/fr Wikipedia « Amazon Monument (Benin) » / « Monument Amazone », « Esplanade des Amazones ») |
+| Amazone: 30 m, metal clad in bronze, rifle and sword, facing the ocean | city-boy `public/data/landmarks.json` `amazone` (en/fr Wikipedia « Amazon Monument (Benin) » / « Monument Amazone », « Esplanade des Amazones ») |
 | Dantokpa « described as the largest open-air market in West Africa », on the lagoon, « a city within the city » | `landmarks.json` `dantokpa` (Wikipedia; FAO https://www.fao.org/4/X6984F/x6984f05.htm) |
 | Cathedral near the Ancien Pont, red-and-white ceramic bands | `landmarks.json` `cathedrale` (Wikipedia « Cathédrale Notre-Dame-de-Miséricorde de Cotonou ») |
 | Fondation Zinsou 2005, first in Benin devoted to contemporary art | `landmarks.json` `zinsou` (Wikipedia « Fondation Zinsou ») |
-| Fidjrossè west of the city, faces the Atlantic, Route des Pêches « seaside resort » | `landmarks.json` `fidjrosse` (Wikipedia « Fidjrossè ») |
+| Fidjrossè west of the city, faces the Atlantic, Route des Pêches « described as » a seaside resort | `landmarks.json` `fidjrosse` (Wikipedia « Fidjrossè ») |
 | « presque personne ne donne une adresse avec un numéro de porte » | as in the D013 article: OSM Benin wiki, ADF Magazine 2018, La Nouvelle Tribune 2014 (city-boy `docs/cloud/1759-d013-article/README.md`) |
 | Photos and credits | city-boy `data/landmarks/photos.json`: `public/landmarks/amazone/2.jpg` (commons File:Le_monument_de_l'Amazone.jpg), `cathedrale/1.jpg` (File:Cotonoucathedral.jpg), `zinsou/1.jpg` (File:Fondation_Zinsou_in_Cotonou_2015.jpg), `fidjrosse/2.jpg` (File:La_plage_Fidjrossè_à_Cotonou_au_Bénin.jpg); Dantokpa 3D still: seo/engine `data/seo/articles/img/dantokpa.jpg` (D006, the game's own city) |
 | Slide 6 | the article page, local build of `cloud/1916-d020-article` at 390 px (25 Nov) |
